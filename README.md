@@ -1,3 +1,3 @@
-# Spiral Vault
+# Spiral Pools
 
-This is the official frontend repo for Spiral vault
+This is the official frontend repo for Spiral Pools
